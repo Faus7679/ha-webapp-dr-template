@@ -1,0 +1,5 @@
+name = "three-tier-ha"
+ami_id = "ami-xxxxxxxxxxxxxxxxx"
+route53_zone_id = "Z123456789EXAMPLE"
+domain_name = "app.example.com"
+acm_certificate_arn_us_east_1 = "arn:aws:acm:us-east-1:123456789012:certificate/example"
